@@ -5,12 +5,12 @@ Simple react app that displays property data for 36 data points.
 - Database: Postgres
 - Server: Node/Express
 
-## Available Scripts
-In the project directory, run:
+## How to Run Locally
 
-### `npm install`
-To install the required dependencies locally.
-
-### `npm start`
-To view the app in the browser. 
+```
+git clone https://github.com/little-zaets/time-series.git
+cd time-series
+npm install
+npm start
+```
 
