@@ -1,10 +1,9 @@
 # Time Series React Graph
 Simple react app that displays property data for 36 data points.
 
-####
-**Charts Library - recharts
-**Database - Postgres
-**Server - Node/Express
+- Charts Library: recharts
+- Database: Postgres
+- Server: Node/Express
 
 ## Available Scripts
 In the project directory, run:
